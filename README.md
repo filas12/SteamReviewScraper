@@ -19,6 +19,6 @@ The game is precious but unpopular, making it a great test for the program. Hit 
 You'll need to install the following libraries before beginning this project:
 - Selenium
 - openpyxl
-- Pandas
+- pandas
 - webdriver_manager.chrome
 - time, datetime, and dateutil
